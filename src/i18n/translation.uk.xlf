@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="uk" datatype="plaintext" original="ng2.template">
+    <body>
+          <trans-unit id="welcome" datatype="html">
+        <source>Welcome</source>
+        <target>Привіт!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">305</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="appRunning" datatype="html">
+        <source>app is running!</source>
+        <target>додаток запущено</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">344</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="resources" datatype="html">
+        <source>Resources</source>
+        <target>Ресурси</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">353</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="resourcesDescription" datatype="html">
+        <source>Here are some links to help you get started:</source>
+        <target>Ось декілька посилань, які допоможуть вам почати:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">354</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="learnAngular" datatype="html">
+        <source>Learn Angular</source>
+        <target>Вивчай Angular</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">360</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cli" datatype="html">
+        <source>CLI Documentation</source>
+        <target>CLI документація</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">367</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="blog" datatype="html">
+        <source>Angular Blog</source>
+        <target>Angular блог</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">375</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nextSteps" datatype="html">
+        <source>Next Steps</source>
+        <target>Наступні кроки</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">383</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nextStepsDescription" datatype="html">
+        <source>What do you want to do next with your app?</source>
+        <target>Що робити далі з додатком?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">384</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="newComponent" datatype="html">
+        <source>New Component</source>
+        <target>Новий компонент</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">392</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="material" datatype="html">
+        <source>Angular Material</source>
+        <target>Angular Material</target>
+       
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">398</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="addDependency" datatype="html">
+        <source>Add Dependency</source>
+        <target>Додати залежності</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">404</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="runTest" datatype="html">
+        <source>Run and Watch Tests</source>
+        <target>Запустити тести</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">410</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="buildProd" datatype="html">
+        <source>Build for Production</source>
+        <target>Зібрати реліз</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">416</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="animations" datatype="html">
+        <source>Animations</source>
+         <target>Анімації</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">431</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="augury" datatype="html">
+        <source>Augury</source>
+        <target>Augury</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">453</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="protractor" datatype="html">
+        <source>Protractor</source>
+        <target>Protractor</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">475</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="localMeeting" datatype="html">
+        <source>Find a Local Meetup</source>
+        <target>Знайдіть місцеві зустрічі</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">485</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="gitter" datatype="html">
+        <source>Join the Conversation on Gitter</source>
+        <target>Приєднуйтесь до спільноти на Gitter</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">491</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="loveAngular" datatype="html">
+        <source> Love Angular? </source>
+        <target>Подобається Angular</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">510</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="giveStar" datatype="html">
+        <source>Give our repo a star.</source>
+        <target>Відмітьте наш репозиторій</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">512</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="star" datatype="html">
+        <source>Star</source>
+        <target>Зірка</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">516</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="grayBg" datatype="html">
+        <source>Gray Clouds Background</source>
+        <target>Фон сірих хмар</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">525</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

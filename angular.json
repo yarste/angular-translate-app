@@ -61,6 +61,13 @@
                   "maximumError": "10kb"
                 }
               ]
+            },
+            "uk":{
+              "aot": true,
+              "outputPath": "dist/uk/",
+              "i18nFile": "src/i18n/translation.uk.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "uk"
             }
           }
         },
@@ -72,7 +79,8 @@
           "configurations": {
             "production": {
               "browserTarget": "angular-translate-app:build:production"
-            }
+            },
+            "uk": { "browserTarget": "angular-translate-app:build:uk" }
           }
         },
         "extract-i18n": {
